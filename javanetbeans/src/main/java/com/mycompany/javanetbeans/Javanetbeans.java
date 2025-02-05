@@ -24,6 +24,7 @@ public class Javanetbeans {
         System.out.println("Is Student:" + isStudent);
         
         
+        
                 
     }
 }
