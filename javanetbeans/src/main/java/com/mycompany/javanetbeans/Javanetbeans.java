@@ -15,7 +15,7 @@ public class Javanetbeans {
         int age = 20;
         double price = 99.99;
         char grade = 'A';
-        boolean isStudent = true;
+        boolean isStudent = true;  
                 
         //printing the values
         System.out.println("Age:" + age);
